@@ -46,7 +46,7 @@ a:active {
 }
 
 .hs-content {
-    width: 1320px;
+    width: 800px;
     overflow-y: scroll;
     height: 100%;
     height: calc(100% - 23px);
