@@ -36,7 +36,7 @@ a:active {
 }
 
 .hs-content-wrapper {
-    width: 6490px;
+    width: 5690px;
     position: absolute;
     overflow: hidden;
     height: 100%;
@@ -46,7 +46,7 @@ a:active {
 }
 
 .hs-content {
-    width: 800px;
+    width: 700px;
     overflow-y: scroll;
     height: 100%;
     height: calc(100% - 23px);
