@@ -45,11 +45,6 @@ a:active {
     height: calc(100% - 47px);
 }
 
-.hs-content-video {
-    width: 700px;
-    height: 463px;
-}
-
 .hs-content {
     width: 700px;
     overflow-y: scroll;
@@ -146,7 +141,7 @@ a.hs-totop-link {
 .hs-inner .before-title {
     font-family: Montserrat;
     /* font-weight: 400; */
-    
+
     margin-top: 30px;
     font-size: 12px;
     display: inline-block;
@@ -3180,7 +3175,7 @@ screen and (max-height: 300px) {
     /**
        * Remove all paddings around the image on small screen
        */
-    
+
     .mfp-img-mobile .mfp-image-holder {
         padding-left: 0;
         padding-right: 0;
