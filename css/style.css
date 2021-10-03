@@ -45,6 +45,11 @@ a:active {
     height: calc(100% - 47px);
 }
 
+.hs-content-video {
+    width: 700px;
+    height: 463px;
+}
+
 .hs-content {
     width: 700px;
     overflow-y: scroll;
